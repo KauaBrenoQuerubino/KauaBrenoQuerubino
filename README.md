@@ -16,3 +16,8 @@ https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&l
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JAva](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+
+
+
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreinaoliveira&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreinaoliveira&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreinaoliveira&theme=tokyonight) |
