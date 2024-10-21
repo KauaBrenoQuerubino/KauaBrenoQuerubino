@@ -1,5 +1,3 @@
-# 💫 About Me:
-Eu trabalho com Java, SpringBoot, html, Css, JavaScript, Python, SQL 
 
 
 ## 🌐 Socials:
