@@ -38,17 +38,3 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/KauaBrenoQuerubino/KauaBrenoQuerubino/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/KauaBrenoQuerubino/KauaBrenoQuerubino/snake-output/snake.svg" alt="Snake animation" />
-
-###
