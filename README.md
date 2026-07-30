@@ -1,23 +1,21 @@
----
-
 <h3 align="left">
-  Olá 👋, me chamo Kauã
+  Olá, me chamo Kauã
 </h3>
 
 <p align="left">
-  Desenvolvedor focado na criação de soluções eficientes, com forte interesse em tecnologia, automação e desenvolvimento de sistemas.
+  Desenvolvedor de software focado na criação de soluções eficientes, escaláveis e orientadas a resultados. Tenho grande interesse em tecnologia, automação e desenvolvimento de sistemas, sempre buscando aplicar boas práticas e entregar valor real através do código.
 </p>
 
 <p align="left">
-  Atuo principalmente com <b>Java</b>, <b>Python</b> e <b>Angular</b>, além de trabalhar com ferramentas de automação como <b>Selenium</b>, sempre buscando otimizar processos e entregar resultados práticos.
+  Possuo experiência no desenvolvimento de aplicações web utilizando <b>Java</b>, <b>Python</b> e <b>Angular</b>, além de atuar com ferramentas de automação como <b>Selenium</b>. Minha atuação envolve desde a construção de interfaces até a implementação de back-end e integração com APIs REST.
 </p>
 
 <p align="left">
-  Tenho experiência no desenvolvimento de aplicações web, integração com APIs REST e modelagem de sistemas, com foco em organização, performance e escalabilidade.
+  Trabalho com foco em organização, performance e escalabilidade, aplicando conceitos de arquitetura de software, boas práticas de desenvolvimento e modelagem de sistemas para construir soluções robustas e sustentáveis.
 </p>
 
 <p align="left">
-  🚀 Atualmente, estou em constante evolução como desenvolvedor, aprofundando conhecimentos em back-end, front-end e arquitetura de software.
+  Atualmente, sigo em constante evolução como desenvolvedor, aprofundando meus conhecimentos em back-end, front-end e arquitetura de software, com o objetivo de me tornar um profissional cada vez mais completo.
 </p>
 
 ---
@@ -59,5 +57,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
-
----
