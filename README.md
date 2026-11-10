@@ -130,7 +130,7 @@ Acredito que tecnologia não deve apenas funcionar: deve resolver problemas reai
 
   ### ━━━━━━━━━━━━ 𝕮𝖚𝖗𝖗𝖊𝖓𝖙 𝕻𝖆𝖙𝖍 ━━━━━━━━━━━━
 
-</div>
+
 
 | | |
 |:---|:---|
@@ -141,6 +141,8 @@ Acredito que tecnologia não deve apenas funcionar: deve resolver problemas reai
 | 📜 **Exploring** | Software Architecture & System Design |
 
 <br>
+
+</div>
 
 <div align="center">
 
